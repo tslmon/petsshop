@@ -1,0 +1,14 @@
+/Users/tslmn/Desktop/Diplom/target/debug/deps/tiff-8b38403afedf5850.rmeta: /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/lib.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/bytecast.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/mod.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/ifd.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/stream.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/mod.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/colortype.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/writer.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/error.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/tags.rs
+
+/Users/tslmn/Desktop/Diplom/target/debug/deps/tiff-8b38403afedf5850.d: /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/lib.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/bytecast.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/mod.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/ifd.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/stream.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/mod.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/colortype.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/writer.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/error.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/tags.rs
+
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/lib.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/bytecast.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/mod.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/ifd.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/decoder/stream.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/mod.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/colortype.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/encoder/writer.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/error.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.1/src/tags.rs:

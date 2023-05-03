@@ -1,0 +1,42 @@
+[package]
+name = "db_queries"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+name = "db_queries"
+path = "src/lib.rs"
+doctest = false
+
+[dependencies]
+utils = { path = "../utils" }
+db_schema = { path = "../db_schema" }
+diesel = { version = "1.4.5", features = ["postgres","chrono","r2d2","serde_json"] }
+diesel_migrations = "1.4.0"
+chrono = { version = "0.4.19", features = ["serde"] }
+serde = { version = "1.0.123", features = ["derive"] }
+serde_json = { version = "1.0.61", features = ["preserve_order"] }
+strum = "0.24"
+strum_macros = "0.24"
+log = "0.4.14"
+hmac = "0.12.1"
+sha2 = "0.10.2"
+#hex-literal = "0.2.2"
+url = { version = "2.2.1", features = ["serde"] }
+lazy_static = "1.4.0"
+regex = "1.4.3"
+bcrypt = "0.9.0"
+base64 = "0.13.0"
+rust-argon2 = "1.0.0"
+actix-web = "4.0.1"
+async-trait = "0.1.42"
+futures = "0.3.21"
+errors-lib-rs = { git = 'https://github.com/aircampi/errors-lib-rs' }
+[dependencies.getrandom]
+version = "0.2"
+
+[dev-dependencies]
+serial_test = "0.5.1"
+tokio = { version = "1.17.0", features = ["full"] }
+uuid = "1.1.1"
+actix-rt = "2.7.0"

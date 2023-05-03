@@ -1,0 +1,13 @@
+/Users/tslmn/Desktop/Diplom/target/debug/deps/actix_router-d3ddbc5d869b9134.rmeta: /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/lib.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/de.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/path.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/pattern.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/quoter.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource_path.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/router.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/url.rs
+
+/Users/tslmn/Desktop/Diplom/target/debug/deps/actix_router-d3ddbc5d869b9134.d: /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/lib.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/de.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/path.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/pattern.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/quoter.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource_path.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/router.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/url.rs
+
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/lib.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/de.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/path.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/pattern.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/quoter.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/resource_path.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/router.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.5.1/src/url.rs:

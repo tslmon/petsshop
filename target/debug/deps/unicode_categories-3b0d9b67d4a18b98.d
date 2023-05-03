@@ -1,0 +1,6 @@
+/Users/tslmn/Desktop/Diplom/target/debug/deps/unicode_categories-3b0d9b67d4a18b98.rmeta: /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode_categories-0.1.1/src/lib.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode_categories-0.1.1/src/tables.rs
+
+/Users/tslmn/Desktop/Diplom/target/debug/deps/unicode_categories-3b0d9b67d4a18b98.d: /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode_categories-0.1.1/src/lib.rs /Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode_categories-0.1.1/src/tables.rs
+
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode_categories-0.1.1/src/lib.rs:
+/Users/tslmn/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode_categories-0.1.1/src/tables.rs:
